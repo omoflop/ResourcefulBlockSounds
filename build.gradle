@@ -22,9 +22,8 @@ loom {
     splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"resourcefulblocksounds" {
 			sourceSet sourceSets.main
-			sourceSet sourceSets.client
 		}
 	}
 
